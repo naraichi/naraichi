@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Indra Gunawan
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming Web
 - 🌱 I’m currently learning full stack programming
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me whatsapp 082284462826
+- 💞️ I’m looking to collaborate on Laravel & NextJs
+- 📫 How to reach me whatsapp 085179561161
 
 <!---
 naraichi/naraichi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
